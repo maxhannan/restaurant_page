@@ -1,3 +1,13 @@
-const { tester } = require("./tester");
+import { tester,btnMaster } from "./tester";
 
-tester('Max')
+
+btnMaster('Click');
+
+
+
+
+
+
+
+
+

@@ -2,9 +2,15 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-direction: column;
+    text-align: center;
     height: 100vh;
-    font-size: 5vw;
+    font-size: 2vw;
 }
 h1{
     color: red;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 2vw;
 }
