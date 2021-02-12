@@ -1,16 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo:300,700|Playfair+Display+SC:700i&display=swap');
+
 body{
+ display: flex;
+ justify-content: center;
+ background-color: black;
+ 
+}
+.navBar{
+    width:100vw;
+    margin-top: 3vh;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-    height: 100vh;
-    font-size: 2vw;
+    /* background-color: aqua; */
+    justify-content:flex-end;
 }
-h1{
-    color: red;
-    margin-bottom: 0;
+a{
+    margin-right: 2%;
+    font-size: 3vh;
+    color:white;
+    text-decoration: none;
+    font-family: 'Playfair Display SC';
+    font-style: italic;
 }
-h2{
-    font-size: 2vw;
+a:hover{
+    text-decoration:line-through; 
+}
+a:active{
+    text-decoration:underline;
 }
