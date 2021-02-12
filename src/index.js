@@ -1,3 +1,3 @@
 const { tester } = require("./tester");
 
-tester('Tofu')
+tester('Max')
