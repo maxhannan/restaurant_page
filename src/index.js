@@ -1,11 +1,6 @@
-import { tester,btnMaster } from "./tester";
+import { navBar } from "./navBar";
 
-
-btnMaster('Click');
-
-
-
-
+navBar();
 
 
 
