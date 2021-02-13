@@ -1,8 +1,6 @@
-import { navBar } from "./navBar";
+import { home } from "./home";
 
-navBar();
-
-
+home();
 
 
 
