@@ -39,7 +39,7 @@ body{
     text-decoration:underline;
 }
 .heroBox{
-    width: 100vw;
+    width: 1500px;
     height: 100vh;
     background-size: 100%;
     display: flex;
@@ -55,7 +55,7 @@ body{
     color:white;
     font-family: 'Playfair Display SC';
     font-style: italic;
-    font-size: 20vh;
+    font-size: 12vw;
     text-align: right;
     
 
@@ -81,7 +81,7 @@ h3{
 #boxTrig{
     color: white;
     text-decoration: none;
-    font-size: 16vh;
+    font-size: 12vw;
 }
 #btnHolder{
     margin-top: 5%;
